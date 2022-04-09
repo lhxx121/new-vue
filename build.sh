@@ -1,1 +1,2 @@
+ls
 npm run build
