@@ -1,4 +1,5 @@
 npm install
 npm run build
 
-tar zcvf dist.tar.gz dist/
+cd dist
+tar zcvf dist.tar.gz ./*
